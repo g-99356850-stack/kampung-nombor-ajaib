@@ -1,0 +1,15 @@
+{
+ "name":"Kampung Nombor Ajaib — نمرح بالأرقام",
+ "short_name":"Nombor Ajaib",
+ "description":"Permainan PdP Bahasa Arab Tahun 1, nombor ١ hingga ١٠ — SK Taman Sri Muda",
+ "lang":"ms-MY",
+ "start_url":"./index.html",
+ "scope":"./",
+ "display":"standalone",
+ "background_color":"#f7f5ff",
+ "theme_color":"#181b38",
+ "icons":[
+  {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+  {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+ ]
+}
